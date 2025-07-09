@@ -1,0 +1,7 @@
+names:
+- rock
+nc: 1
+path: /home/alexis/rock_detection_swisstopo/data/processed
+test: images/test
+train: images/train
+val: images/val
