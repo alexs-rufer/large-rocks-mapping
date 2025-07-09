@@ -1,0 +1,36 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings folder
+.vscode/
+
+# Virtual environment folders
+.env
+.venv
+env/
+venv/
+
+# macOS-specific files
+.DS_Store
+
+# avoid pushing large data files
+data
+
+# the YOLO trained weigths
+runs/
+
+# YOLO models
+yolo*
+
+# config file
+config.yaml
+
+train*
+
+# wandb
+wandb
